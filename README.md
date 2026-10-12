@@ -288,6 +288,7 @@ Detailed description of the skill's purpose.
 | [since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff/tree/main/skills/since-cutoff) | Finds which APIs of your pinned Python dependencies changed after the model's training cutoff (static diff, no model calls), shows where your code uses them, and writes short AGENTS.md / CLAUDE.md notes; also a CLI and MCP server |
 | [shipvela-publish](https://github.com/stefanautomateed/shipvela-codex/tree/main/skills/shipvela-publish) | Publish static websites through Shipvela OAuth/MCP with owner approval, status and logs; MIT client skill, requires a hosted-service account (free tier available) |
 | [bestax-skills](https://github.com/allxsmith/bestax/tree/main/skills) | Build React apps with Bestax on Bulma v1: forms, layouts, theming, icons, CSS size, and migration |
+| [supercov](https://github.com/supercorp-ai/supercov/tree/main/plugins/supercov/skills/supercov) | Measure line, branch and MC/DC coverage of the existing tests and write tests for the untested code. Coverage runs locally; the optional quality check sends source to TypeSafe when TYPESAFE_API_KEY is set |
 
 
 ### Data & Analysis
