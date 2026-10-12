@@ -506,6 +506,7 @@ Detailed description of the skill's purpose.
 | [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) | Discover local skills, PKM notes, encrypted HC records, and opaque capability metadata through the `hc` CLI. Requires the separately installed developer-alpha engine; installing the skill grants no data or credential access. |
 | [plasma-ai/wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) | **Plasma AI**: indexed Markdown knowledge bases following Karpathy's LLM Wiki pattern — the deterministic `plasma-wiki` CLI generates `_index.md` trees and cross-links, lints structure, and gives agents scoped `map`/`search`/`read` so only task-relevant pages enter context |
 | [mblode/agent-skills](https://github.com/mblode/agent-skills) | Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills` |
+| [Archcore](https://github.com/archcore-ai/archcore/tree/main/plugins/archcore/skills) | Git-native context engineering and spec-driven development for AI coding agents |
 
 ## Skills Marketplaces
 
