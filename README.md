@@ -303,6 +303,7 @@ Detailed description of the skill's purpose.
 | [simple-man](https://github.com/Maksim-Burtsev/simple-man) | Strips praise, recaps and filler from agent answers while keeping every fact you act on; findings carry location and fix, tutorials stay long-form. Benchmarked on 1,793 preregistered live calls, raw records committed |
 | [equibles-research](https://github.com/daniel3303/stock-market-mcp-server/tree/master/skills/equibles-research) | Research US stocks through the [Equibles](https://equibles.com) MCP server: SEC filings, financial statements, earnings call transcripts, insider trades and 13F holdings, each figure cited to its source; works in Claude Code, Codex and other skill loaders; needs an Equibles account (free plan) |
 | [datacircle](https://github.com/waynehamadi/datacircle-plugin/tree/main/skills/datacircle) | The skill for the [Datacircle](https://datacircle.dev) MCP server. It gets a LinkedIn profile from its URL, through Up2Data, HarvestAPI or Fetchin |
+| [looot](https://github.com/loootai/looot-skills) | 20 data-job skills for the looot remote MCP server: work email, phone, company enrichment, Google SERP and web page reading from one API key and prepaid balance; paid per call |
 
 ### Integration & Automation
 
