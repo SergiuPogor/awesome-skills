@@ -223,6 +223,7 @@ Detailed description of the skill's purpose.
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | 50+ verified skills for Claude Code and Claude.ai |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Quality Skills collection for various programming tasks |
 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Practical Codex skills for automation workflows |
+| [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) | **400+ Skills** via [Aident Loadout](https://aident.ai): one remote MCP so Claude Code, Codex, Cursor, ChatGPT and other agents reuse connected work apps |
 | [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) | Awesome collection with official and community-built resources |
 | [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, code review, and testing skills |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | **23 marketing skills**: CRO, copywriting, SEO, analytics, A/B testing, email sequences |
