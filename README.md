@@ -250,6 +250,7 @@ Detailed description of the skill's purpose.
 | [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) | **7 agent task-management skills**: Kanban/task-ledger operations, durable Markdown wiki Records, workflow Records, provenance-bound artifacts, project inspection, implementation-sized task planning, and single-task execution loops; powers YYLO CLI/YYLO Ledger agent workflows; Claude Code/Codex/Pi; installable via `npx skills add yylo-dev/yylo-skills` |
 | [proskillpacks/skills](https://github.com/proskillpacks/skills) | **Free agent skills** in plain SKILL.md format for store owners, freelancers and developers; work in any assistant that reads skills |
 | [Shaisolaris/solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop) | Free MIT skill library with a deterministic intake router |
+| [moooai/obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one) | Chinese consumer coupon suite: takeout, ride-hailing/hotels, movie tickets and parcel shipping via one public API |
 
 ### Document Processing
 
@@ -424,6 +425,7 @@ Detailed description of the skill's purpose.
 | [NotFair](https://github.com/nowork-studio/NotFair) | Claude Code skills for SEO, GEO, Google Ads, and Meta Ads with live MCP data integration |
 | [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) | Data-backed email marketing skill: automation flows, deliverability triage, copy de-slopping, AI email design, ESP control via MCP with send-safety gates, compliance and 19 industry playbooks |
 | [bulkpublish-ai-toolkit](https://github.com/azeemkafridi/bulkpublish-ai-toolkit) | Skills for drafting, scheduling, cross-posting and measuring social posts on 15 platforms through the BulkPublish MCP server |
+| [takeout-coupon](https://github.com/moooai/takeout-coupon) | Fetch live Meituan / Ele.me / JD food-delivery promo codes (口令) plus QR claim pages from a public no-auth API |
 
 ### AI Agents & LLM Development
 
