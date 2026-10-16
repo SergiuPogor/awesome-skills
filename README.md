@@ -365,6 +365,7 @@ Detailed description of the skill's purpose.
 | Skill | Description |
 |-------|-------------|
 | [Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health) | Health assistant for medical report analysis and wellness suggestions |
+| [healthcare-job-search](https://github.com/yumaheymans/carejobs-mcp/tree/main/skills/healthcare-job-search) | Answer US healthcare job and posted-pay questions through the free CareJobs.Now MCP server or JSON endpoints; no account or API key |
 
 ### Cybersecurity & Penetration Testing
 
